@@ -64,7 +64,7 @@
                          ? $val1 * $val2 :
                           //default
                           $val1 / $val2 ):
-                       >>1$equals_in;
+                       >>1$out ;
          $digit[3:0] = $out[3:0];
          
          *uo_out =
